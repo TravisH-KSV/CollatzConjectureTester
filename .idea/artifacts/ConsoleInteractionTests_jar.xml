@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConsoleInteractionTests:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConsoleInteractionTests_jar</output-path>
+    <root id="archive" name="ConsoleInteractionTests.jar">
+      <element id="module-output" name="ConsoleInteractionTests" />
+    </root>
+  </artifact>
+</component>
